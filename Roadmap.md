@@ -7,7 +7,7 @@
 - [x] Read: Self-supervision explanation ✅ 2026-03-11
 - [x] Read: Tokens and tokenization ✅ 2026-03-12
 - [x] Notes: 3-bullet summary ✅ 2026-03-12
-- [ ]  Code: Test tokenization with GPT-4
+- [x] Code: Test tokenization with GPT-4 ✅ 2026-03-12
 
 ### Chapter 2: Understanding Foundation Models (3 hours)
 

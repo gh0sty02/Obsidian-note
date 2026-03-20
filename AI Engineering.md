@@ -74,4 +74,3 @@ so size of a 7B parameter model will be  `4 x 7 = 28GB`
 
 - means training on previously trained model and model weights
 - requires fewer resources as the model is already trained
-- 
